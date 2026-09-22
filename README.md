@@ -1,22 +1,22 @@
-# 🧠 Detecção de Tumores Cerebrais com IA
+#  Detecção de Tumores Cerebrais com IA
 
 Projeto de classificação de imagens de ressonância magnética cerebral utilizando **MLP** e **Vision Transformer (ViT)**.
 
-## 🎯 Objetivo
+## 
 Comparar diferentes configurações de MLP e Vision Transformer na classificação de quatro categorias:
 - Glioma
 - Meningioma
 - Pituitary
 - No Tumor
 
-## 🛠️ Tecnologias
+##  Tecnologias
 - Python
 - TensorFlow / Keras
 - Scikit-Learn
 - Google Colab
 - Kaggle
 
-## 📊 Resultados
+##  Resultados
 Foram realizados 8 experimentos. O modelo MLP simples apresentou **81,69% de acurácia** e **F1-Score de 0,8127**.
 
 ## 📁 Arquivos
